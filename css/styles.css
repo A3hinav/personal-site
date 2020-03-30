@@ -143,11 +143,11 @@ p {
   color: #66BFBF;
   border-bottom: 2px solid #66BFBF;
 }
-a .line{
+ .line{
   color: #fff;
   border-bottom: 1px solid #fff;
   cursor: pointer;
 }
-a .line:hover{
+ .line:hover{
   transition: all .3s ease-in-out;
 }
