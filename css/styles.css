@@ -143,3 +143,20 @@ p {
   color: #66BFBF;
   border-bottom: 2px solid #66BFBF;
 }
+.link{
+  color: dodgerblue;
+
+}
+.line:hover{
+  color: #844685;
+}
+.i5 {
+  width: 22%;
+  float: left;
+  margin-right: 30px;
+}
+.i6 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
