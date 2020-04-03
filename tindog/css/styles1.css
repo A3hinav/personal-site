@@ -151,3 +151,7 @@ p {
     transform: rotate(0);
   }
 }
+.black
+{
+  color: #000;
+}
