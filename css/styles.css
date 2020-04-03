@@ -43,7 +43,7 @@ a:hover {
 
 .copyright {
   color: #eaf6f6;
-  font-size: 75rem;
+  font-size: 2.75rem;
   padding: 20px 0;
 }
 
@@ -159,4 +159,10 @@ p {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+.website{
+  color:#000;
+}
+.website:hover{
+  color: dodgerblue;
 }
