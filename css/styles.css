@@ -165,10 +165,6 @@ p {
 .website:hover{
   color: dodgerblue;
 }
-.hire
-{
-  text-decoration: none;
-}
 .site{
   color: dodgerblue;
 }
@@ -176,3 +172,35 @@ p {
   color: #66bfbf;
 }
   
+/*--- Red Box (box-e) ---*/
+.box-e .custom-underline::after {
+  top: 65%;
+  height: 2px;
+  width: 0%;
+  left: 5%;
+  background-color: rgba(255, 255, 255, 0.6);
+    transition: 0.5s ease all .3s;
+}
+
+.box-e:hover .custom-underline::after {
+  width: 90%;
+    transition: 0.3s ease all;
+}
+.custom-underline,
+.custom-underline:hover,
+.custom-underline:focus,
+.custom-underline:active {
+  color: #fff;
+  text-decoration: none;
+}
+
+.custom-underline::after {
+  content: "";
+  position: absolute;
+}
+ .box-e {
+  position: relative;
+  display: block;
+  text-align: center;
+  cursor: pointer;
+}
