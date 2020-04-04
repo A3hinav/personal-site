@@ -165,9 +165,9 @@ p {
 .website:hover{
   color: dodgerblue;
 }
-.site{
+#site{
   color: dodgerblue;
 }
-.site:hover{
+#site:hover{
   color: #66bfbf;
 }
