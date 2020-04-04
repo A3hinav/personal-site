@@ -136,12 +136,11 @@ p {
   background: none;
   font-size: 25px;
   text-decoration: none;
-  border-bottom: 2px solid #1e90ff;
 }
 
 .btn:hover {
   color: #66BFBF;
-  border-bottom: 2px solid #66BFBF;
+  border-bottom: 1px solid #66BFBF ease-in-out;
 }
 .link{
   color: dodgerblue;
@@ -166,3 +165,8 @@ p {
 .website:hover{
   color: dodgerblue;
 }
+.hire
+{
+  text-decoration: none;
+}
+  
