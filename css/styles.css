@@ -169,4 +169,10 @@ p {
 {
   text-decoration: none;
 }
+.site{
+  color: dodgerblue;
+}
+.site:hover{
+  color: #66bfbf;
+}
   
