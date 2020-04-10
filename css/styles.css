@@ -182,4 +182,15 @@ p {
 .btn{
 color: #1e90ff;
   }
+  a {
+  color: #11999E;
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
 }
