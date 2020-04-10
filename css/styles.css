@@ -26,13 +26,13 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-h4 {
+.dog {
   color: #1e90ff;
   cursor: pointer;
    margin-top: auto;
 }
 
-h4:hover {
+.dog:hover {
   color: #66bfbf;
 }
 
