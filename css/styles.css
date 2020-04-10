@@ -174,3 +174,11 @@ h4:hover{
 {
   color: #000;
 }
+@media(max-width : 1028px){
+  h4{
+    color: #1e90ff;
+  }
+.btn{
+color: #1e90ff;
+  }
+}
