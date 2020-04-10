@@ -26,13 +26,13 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-.sites {
+h4 {
   color: #1e90ff;
   cursor: pointer;
    margin-top: auto;
 }
 
-.sites:hover {
+h4:hover {
   color: #66bfbf;
 }
 
