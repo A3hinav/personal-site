@@ -136,15 +136,15 @@ p {
 
 .btn:hover {
   color: #66BFBF;
-  border-bottom: 1px solid #66BFBF ease-in-out;
+  border-bottom: 1px solid #66BFBF;
 }
-.link{
-  color: dodgerblue;
-
+/* .link{ */
+/*   color: dodgerblue; */
+/* 
 }
-.line:hover{
-  color: #844685;
-}
+.line:hover{ */
+/*   color: #844685;
+} */
 .i5 {
   width: 22%;
   float: left;
@@ -159,10 +159,10 @@ p {
   color:#000;
 }
 .website:hover{
-  color: dodgerblue;
+  color: #1e90ff;
 }
 h4{
-  color: dodgerblue;
+  color: #1e90ff;
   cursor: pointer;
   margin-bottom: 2;
     margin-top: auto;
