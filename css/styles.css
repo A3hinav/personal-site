@@ -25,6 +25,15 @@ h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
+h4{
+  color: #1e90ff;
+  cursor: pointer;
+   margin-top: auto;
+}
+h4:hover{
+  color: #66bfbf;
+}
+
 a {
   color: #11999E;
   font-family: 'Raleway', sans-serif;
@@ -161,14 +170,7 @@ p {
 .website:hover{
   color: #1e90ff;
 }
-h4{
-  color: #1e90ff;
-  cursor: pointer;
-   margin-top: auto;
-}
-h4:hover{
-  color: #66bfbf;
-}
+
 .black
 {
   color: #000;
