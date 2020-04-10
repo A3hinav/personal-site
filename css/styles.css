@@ -164,6 +164,8 @@ p {
 h4{
   color: dodgerblue;
   cursor: pointer;
+  margin-bottom: 2;
+    margin-top: auto;
 }
 h4:hover{
   color: #66bfbf;
