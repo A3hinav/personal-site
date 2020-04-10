@@ -38,6 +38,8 @@ h4:hover {
 
 a {
    text-decoration: none;
+    margin: 10px 20px;
+  font-size: 20px;
 }
 
 hr {
