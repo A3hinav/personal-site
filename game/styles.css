@@ -14,9 +14,19 @@ body {
   background-color: #393E46;
 }
 
-h1 {
+h1  {
   margin: 30px;
   font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+h2
+{
+  margin: 10px;
+  font-family: 'Comic Neue', cursive;
+  text-align: center;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
