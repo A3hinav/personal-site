@@ -33,19 +33,11 @@ h4 {
 }
 
 h4:hover {
-  color: red;
+  color: #66bfbf;
 }
 
 a {
-  color: #11999E;
-  font-family: 'Raleway', sans-serif;
-  text-decoration: none;
-  margin: 10px 20px;
-  font-size: 20px;
-}
-
-a:hover {
-  color: #eaf6f6;
+   text-decoration: none;
 }
 
 hr {
@@ -105,6 +97,19 @@ p {
   float: right;
   margin-left: 30px;
 }
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-size: 20px;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
 /*button*/
 .btn {
   color: #1e90ff;
