@@ -23,7 +23,7 @@ else
    score2 ++;
 }
 
-document.querySelector("h3").innerHTML = "\nplayer 1 Score = " +score1+ "∆player 2 Score = " +score2;
+document.querySelector("h3").innerHTML = "\nplayer 1 Score = " +score1+ " ∆ player 2 Score = " +score2;
 
 if(score1 > score2){
  document.querySelector("h4").innerHTML = "player 1 is the winner with score = " +score1;
