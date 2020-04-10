@@ -26,13 +26,13 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-.dog {
+a .dog {
   color: #1e90ff;
   cursor: pointer;
    margin-top: auto;
 }
 
-.dog:hover {
+a .dog:hover {
   color: #66bfbf;
 }
 
@@ -113,7 +113,7 @@ p {
 }
 
 /*button*/
-.btn {
+a .btn {
   color: #1e90ff;
   font-family: 'Raleway', sans-serif;
   background: none;
@@ -121,7 +121,7 @@ p {
   text-decoration: none;
 }
 
-.btn:hover {
+a .btn:hover {
   color: #66BFBF;
   border-bottom: 1px solid #66BFBF;
 }
