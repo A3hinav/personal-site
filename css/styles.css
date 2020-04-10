@@ -179,7 +179,7 @@ p {
 }
 
 /*Responsive*/
-@media(max-width: 1028px) {
+/* @media(max-width: 1028px) {
 
   a {
   color: #1e90ff;
@@ -192,4 +192,4 @@ p {
 a:hover {
   color: #eaf6f6;
 }
-}
+} */
