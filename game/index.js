@@ -15,7 +15,7 @@ if(randomNumber1 > randomNumber2){
 else if( randomNumber1 === randomNumber2)
 {
   document.querySelector("h1").innerHTML = "🚩Draw!🚩";
-  score1 = score2 ++;
+  score1 = score2 = +1;
 }
 else
 {
