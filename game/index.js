@@ -27,7 +27,7 @@ document.querySelector("h3").innerHTML = "\nplayer 1 Score = " +score1+ " ∆ pl
 
 if(score1 > score2){
  document.querySelector("h4").innerHTML = "player 1 is the winner with score = " +score1;
-} else if(score1 = score2){
+} else if(score1 === score2){
 document.querySelector("h4").innerHTML = "It's a draw!";
 }
 else
