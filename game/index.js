@@ -30,7 +30,7 @@ if(score1 > score2){
 } else if(score1 = score2){
 document.querySelector("h4").innerHTML = "It's a draw!";
 }
-else(score1 < score2)
+else
 {
   document.querySelector("h4").innerHTML = "player 2 is the winner with score = " +score2;
 }
