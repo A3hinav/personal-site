@@ -1,51 +1,56 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #84f2d6;
+  font-family: 'Rokkitt', serif;
+  font-family: 'EB Garamond', serif;
+  font-family: 'Markazi Text', serif;
 }
 
 h1 {
-  font-size: 5rem;
-  color: #DBEDF3;
-  font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  font-size: 6rem;
+  color: #721b65;
+
+  text-shadow: 3px 0 #ffd868;
 
 }
 
 footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
+  color: #000000;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Merriweather', serif;
 }
 
 .w {
-background: url("images/crash.png");
+background: url("images/crash1.jpg");
 }
 
 .a {
-  background: url("images/kick.png");
+  background: url("images/kick1.jpg");
 
 }
 
 .s {
-background: url("images/snare.png");
+background: url("images/snare1.jpg");
 }
 
 .d {
-  background: url("images/tom1.png");
+  background: url("images/tom1a.jpg");
 
 }
 
 .j {
-  background: url("images/tom2.png");
+  background: url("images/tom2a.jpg");
 
 }
 
 .k {
-  background: url("images/tom3.png");
+  background: url("images/tom3a.jpg");
 
 }
 
 .l {
-background: url("images/tom4.png");
+background: url("images/tom4a.jpg");
 }
 
 .set {
@@ -67,15 +72,17 @@ background: url("images/tom4.png");
 }
 
 .drum {
-  outline: none;
-  border: 10px solid #404B69;
+
+  border: 10px solid #812d58;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
-  line-height: 2;
-  font-weight: 900;
-  color: #DA0463;
+  font-family: 'Rokkitt', serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Markazi Text', serif;
+  line-height: 3;
+  font-weight: 600;
+  color: #c00000;
   text-shadow: 3px 0 #DBEDF3;
-  border-radius: 15px;
+  border-radius: 40px;
   display: inline-block;
   width: 150px;
   height: 150px;
